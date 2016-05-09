@@ -1,0 +1,12 @@
+{
+  "name": "totango-api-tool",
+  "version": "1.0.0",
+  "description": "Totango API Tool",
+  "main": "app.js",
+  "dependencies": {
+    "request": "^2.53.0"
+  },
+  "devDependencies": {},
+  "author": "Tyler Wells",
+  "license": "MIT"
+}
